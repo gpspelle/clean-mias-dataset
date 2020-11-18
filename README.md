@@ -14,7 +14,7 @@ Since the dataset is pretty small, it was added as a zip file to this repo.
 You can extract it using:
 
 ``` 
-unzip mias-dataset
+unzip mias-dataset.zip
 ```
 
 ## Usage 
