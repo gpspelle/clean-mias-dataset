@@ -5,7 +5,7 @@ noise from the data.
 
 Usage is really simple, check it out. 
 
-Author: [gpspelle](https://github.com/gpspelle)
+Author: [gpspelle](https://github.com/gpspelle)  
 Date: 18/11/2020
 
 ## Get the dataset
@@ -22,7 +22,7 @@ unzip mias-dataset
 Just run the main script:
 
 ```
-clean\_data.py
+clean_data.py
 ```
 
 The data paths are hardcoded inside this script, go check it
