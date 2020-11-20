@@ -8,7 +8,18 @@ Usage is really simple, check it out.
 Author: [gpspelle](https://github.com/gpspelle)  
 Date: 18/11/2020
 
-## Get the dataset
+## Clean dataset
+
+The clean dataset is in fact smaller than the original dataset because now
+its images are mostly black, because all the noisy background is removed.
+Therefore, you can find it here the clean version thus there's no need
+to run the code to produce it anymore.
+
+```
+unzip clean-mias-dataset.zip
+```
+
+## [Optional] Get the original dataset
 
 Since the dataset is pretty small, it was added as a zip file to this repo.
 You can extract it using:
@@ -17,7 +28,7 @@ You can extract it using:
 unzip mias-dataset.zip
 ```
 
-## Usage 
+## [Optional] Usage 
 
 Just run the main script:
 
